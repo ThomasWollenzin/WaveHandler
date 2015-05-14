@@ -1,0 +1,5 @@
+SCC = This is a source code control file
+
+[WaveHandler.csproj]
+SCC_Aux_Path = "P4SCC#127.0.0.1:1666##TomWolle##Tom01"
+SCC_Project_Name = Perforce Project

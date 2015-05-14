@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveHandler", "WaveHandler\WaveHandler.csproj", "{E932ED3C-F622-4F57-A218-2EB29CA59F0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{378A6104-616D-4617-AE95-2C297E75AB1F}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WaveHandler\\WaveHandler.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = WaveHandler\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E932ED3C-F622-4F57-A218-2EB29CA59F0C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E932ED3C-F622-4F57-A218-2EB29CA59F0C}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{E932ED3C-F622-4F57-A218-2EB29CA59F0C}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{E932ED3C-F622-4F57-A218-2EB29CA59F0C}.Debug|x64.ActiveCfg = Debug|x64
+		{E932ED3C-F622-4F57-A218-2EB29CA59F0C}.Debug|x64.Build.0 = Debug|x64
+		{E932ED3C-F622-4F57-A218-2EB29CA59F0C}.Debug|x86.ActiveCfg = Debug|x86
+		{E932ED3C-F622-4F57-A218-2EB29CA59F0C}.Debug|x86.Build.0 = Debug|x86
+		{E932ED3C-F622-4F57-A218-2EB29CA59F0C}.Release|Any CPU.ActiveCfg = Release|x86
+		{E932ED3C-F622-4F57-A218-2EB29CA59F0C}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{E932ED3C-F622-4F57-A218-2EB29CA59F0C}.Release|Mixed Platforms.Build.0 = Release|x86
+		{E932ED3C-F622-4F57-A218-2EB29CA59F0C}.Release|x64.ActiveCfg = Release|x64
+		{E932ED3C-F622-4F57-A218-2EB29CA59F0C}.Release|x64.Build.0 = Release|x64
+		{E932ED3C-F622-4F57-A218-2EB29CA59F0C}.Release|x86.ActiveCfg = Release|x86
+		{E932ED3C-F622-4F57-A218-2EB29CA59F0C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
